@@ -1,0 +1,118 @@
+#Output of code billing system 
+
+
+BILLING SYSTEM
+-----------------------
+Customer Details
+
+Customer Name : bharath
+Customer Number : 12455333
+Customer Id : 6421832
+------------------------
+COSMETICS
+
+Body Soap ( RS 10 ) : 0
+Hair Cream ( RS 25 ) : 9
+Body Spray ( RS 50 ) : 8
+Hair Spray ( RS 50 ) : 7
+hairremovercream( Rs 30):3
+------------------------
+GROCERIES
+
+Sugar ( RS 100 ) : 3
+Tea ( RS 15 ) : 22
+Coffee ( RS 50 ) : 4
+Rice ( RS 150 ) : 5
+Wheat ( RS 160 ) : 6
+------------------------
+BEVERAGES
+
+PEPSI ( RS 30 ) : 7
+SPRITE ( RS 35 ) : 9
+COKE ( RS 30 ) : 10
+MOJITOS ( RS 25 ) : 22
+THUMBS UP ( RS 35 ) : 22
+------------------------
+CLOTHES
+
+TSHIRTS ( RS 300 ) : 1
+SHIRTS ( RS 350 ) : 4
+COTTANPANTS ( RS 230 ) : 2
+JEANSPANTS ( RS 250 ) : 5
+------------------------
+Body Soap : 0 RS
+Hair Cream : 225 RS
+Hair Spray : 350 RS
+Body Spray : 400 RS
+hairremover cream :90 Rs
+Total Cosmetics Price : 1065 RS
+------------------------
+Sugar : 300 RS
+Tea : 330 RS
+Coffee : 200 RS
+Rice : 750 RS
+Wheat : 960 RS
+Total Grocery Price : 2540 RS
+------------------------
+Pepsi : 210 RS
+Sprite : 315 RS
+Coke : 300 RS
+Mojitos : 550 RS
+Thumbs Up : 770 RS
+Total Beverage Price : 2145 RS
+----------------------
+Tshits : 300 RS
+shirts : 1400 RS
+Cottanpants : 460 RS
+jeanspants: 1250 RS
+Total clothes total : 3410 RS
+----------------------
+Total Amount : 9160 RS
+---------------------------------------------------------------------------------------
+
+             BHARATH SuperMarket
+
+WELCOME Customer Name : bharath
+Customer Phone Number : 12455333
+Customer Id : 6421832
+Product Name                     Quantity                      Price
+
+Body Soap                        0                            0
+Hair Cream                       9                            225
+Body Spray                       8                            400
+Hair Spray                       7                            350
+hairremovercream                 3                            90
+Sugar                            3                            300
+Tea                              22                            330
+Coffee                           4                            200
+Rice                             5                            750
+Wheat                            6                            960
+Pepsi                            7                            210
+Sprite                           9                            315
+Coke                             10                            300
+Mojitos                          22                            550
+Thumbs Up                        22                            770
+
+Tshirts                          1                            300
+
+shirts                           4                            1400
+
+cottanpants                      2                            460
+
+jeans                            5                            1250
+
+Grocery Total Price : 2540
+
+Cosmetic Total Price : 1065
+
+Beverage Total Price : 2145
+
+Clothing Total price:  3410
+
+Total Price : 9160
+
+THANK YOU & VISIT AGAIN
+ ----------------------------------------------------------------------------------------------
+
+Process returned 0 (0x0)   execution time : 44.973 s
+Press any key to continue.
